@@ -1,0 +1,44 @@
+#auto reload
+auto-reload yes 
+
+# unbind keys
+unbind-key ENTER
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+unbind-key v
+
+# bind keys - vim style
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+
+# solarized
+color background         default   default
+color listnormal         default   default
+color listnormal_unread  green   default
+color listfocus          black     yellow
+color listfocus_unread   black     yellow
+color info               default   red
+color article            default   default
+
+# highlights
+highlight article "^(Title):.*$" blue default
+highlight article "https?://[^ ]+" red default
+highlight article "\\[image\\ [0-9]+\\]" green default
+
+reload-threads 100
+
+#confirm-mark-feed-read no
+
+# mpv stream
+
+browser linkhandler
+
+macro t set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler; 
+macro v set browser "nohup bash -c 'yt-dlp -o - %u | mpv -' &> /dev/null &" ; open-in-browser ; set browser linkhandler
+
+macro f set browser "setsid -f firefox %u &> /dev/null " ; open-in-browser ; set browser linkhandler; 
+macro c set browser "echo %u | xclip -r -sel c" ; open-in-browser ; set browser linkhandler
