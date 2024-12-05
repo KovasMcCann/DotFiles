@@ -9,12 +9,6 @@
   - **Most keybindings are in keys.h**
   - This is done with `#include "keys.h"`
 
-- `/Scripts` contains script's for a variety of uses
+- `/Scripts` contains scripts for a variety of uses
 
 - `/Newsboat` contains the `urls` and `config` files for the for [Newsboat](https://newsboat.org/index.html)
-
-## How to use
-
-Copy any config file or clone repo
-
-View config file for ideas
