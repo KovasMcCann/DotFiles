@@ -25,6 +25,10 @@ bindkey -v '^?' backward-delete-char
 autoload -U colors && colors
 
 PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
+# Idea: 
+# PROMPT_COMMAND='PS1_CMD1=$(git branch --show-current 2>/dev/null); PS1_CMD2=$(ip route get 1.1.1.1 | awk -F"src " '"'"'NR == 1{ split($2, a," ");print a[1]}'"'"')'
+PS1="%B%{$fg[red]%}[%{$fg[yellow]%}\u%{$fg[green]%}@%{$fg[blue]%}${PS1_CMD2} %{$fg[magenta]%}%~ %{$fg[cyan]%}${PS1_CMD1}%{$fg[red]%}]%{$reset_color%}$%b "
+
 
 alias sound='pulsemixer'
 
