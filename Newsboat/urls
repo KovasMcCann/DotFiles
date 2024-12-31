@@ -1,4 +1,4 @@
-"query:Unread Articles:unread = \"yes\" and tags !# \"pouet\" and tags !# \"arxiv\" 
+"query:Unread Articles:unread = \"yes\" and tags !# \"arxiv\" 
 "query:Unread Articles (favourite):unread = \"yes\" and tags # \"Favourite\""
 
 https://rss.arxiv.org/rss/cs arxiv
