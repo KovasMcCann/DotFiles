@@ -1,100 +1,134 @@
-https://rss.arxiv.org/rss/cs
+"query:Unread Articles:unread = \"yes\" and tags !# \"pouet\" and tags !# \"arxiv\" 
+"query:Unread Articles (favourite):unread = \"yes\" and tags # \"Favourite\""
 
-https://rss.arxiv.org/rss/q-fin
+https://rss.arxiv.org/rss/cs arxiv
 
+https://rss.arxiv.org/rss/q-fin arxiv
+
+https://apod.nasa.gov/apod.rss
 
 #luke smith
-https://lukesmith.xyz/youtube.xm://videos.lukesmith.xyz/feeds/videos.xml?accountId=3
+https://lukesmith.xyz/youtube.xm://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 Linux 
+
+#Luke smith peer tube
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "~Luke Smith (Peertube)" Linux Favourite
 
 # mental outlaw
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA Linux
 
 #Louis Rossmann
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w Tech
 
 #chrisacapenti
-https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg Linux
 
 #John Hammond
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw Hacking
 
 #level on techs
-http://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ
+http://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ Tech
 
 #Sam zeloof
-http://www.youtube.com/feeds/videos.xml?channel_id=UC7E8-0Ou69hwScPW1_fQApA
+http://www.youtube.com/feeds/videos.xml?channel_id=UC7E8-0Ou69hwScPW1_fQApA Tech Hacking
 
 #lit nomad
-http://www.youtube.com/feeds/videos.xml?channel_id=UCjbUKFFbH0JYU94ONGDeM-A
+http://www.youtube.com/feeds/videos.xml?channel_id=UCjbUKFFbH0JYU94ONGDeM-A Finance
 
 #Martin Shkreli
-http://www.youtube.com/feeds/videos.xml?channel_id=UCjYKsjt-7EDU78KEcVbhYnQ
+http://www.youtube.com/feeds/videos.xml?channel_id=UCjYKsjt-7EDU78KEcVbhYnQ Finance Programing Favourite
 
 #GeoHot
-http://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg
+http://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg Programing Hacking Favourite
 
 #Cult of the almight dollar
-http://www.youtube.com/feeds/videos.xml?channel_id=UCxKFLJmB8aGhTZFRI7Lf2fg
+http://www.youtube.com/feeds/videos.xml?channel_id=UCxKFLJmB8aGhTZFRI7Lf2fg Finance
 
 #Dimitri Bianco
-http://www.youtube.com/feeds/videos.xml?channel_id=UCLHvJ1KNGE1s-A3ODiSgplw
+http://www.youtube.com/feeds/videos.xml?channel_id=UCLHvJ1KNGE1s-A3ODiSgplw Finance
 
 #ritvikmath
-http://www.youtube.com/feeds/videos.xml?channel_id=UCUcpVoi5KkJmnE3bvEhHR0Q
+http://www.youtube.com/feeds/videos.xml?channel_id=UCUcpVoi5KkJmnE3bvEhHR0Q Math Finance
 
 #3blue1brown
-http://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+http://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw Math
+
+#Computerphile
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA Math Programing
 
 #Aleph 0
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzBjutX2PmitNF4avysL-vg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzBjutX2PmitNF4avysL-vg Math
 
 #Author Jonathan David
-https://www.youtube.com/feeds/videos.xml?channel_id=UCdwKRgpXOHvVxlYnqYxXNzw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdwKRgpXOHvVxlYnqYxXNzw Math
 
 #Xena Project
-https://www.youtube.com/feeds/videos.xml?channel_id=UCtdYf-CsDI215SqaQ3XYx1A
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtdYf-CsDI215SqaQ3XYx1A Math
 
 #Sheafification of G
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ Math Programing
 
 #yannic kilcher
-http://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew
+http://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew Programing
 
 #Coding jesus
-http://www.youtube.com/feeds/videos.xml?channel_id=UCgUxdfi_5-m67UDbrgcAFBg
+http://www.youtube.com/feeds/videos.xml?channel_id=UCgUxdfi_5-m67UDbrgcAFBg Programing Finance
 
 #Neetcdoe
-http://www.youtube.com/feeds/videos.xml?channel_id=UC_mYaQAE6-71rjSN6CeCA-g
+http://www.youtube.com/feeds/videos.xml?channel_id=UC_mYaQAE6-71rjSN6CeCA-g Programing
 
 #QWuant Intuition
-http://www.youtube.com/feeds/videos.xml?channel_id=UCNduhbPULFNy9b8heDO5wJQ
+http://www.youtube.com/feeds/videos.xml?channel_id=UCNduhbPULFNy9b8heDO5wJQ Finance Math
 
 #Aswath Damodaranon Valuation
-http://www.youtube.com/feeds/videos.xml?channel_id=UCLvnJL8htRR1T9cbSccaoVw
+http://www.youtube.com/feeds/videos.xml?channel_id=UCLvnJL8htRR1T9cbSccaoVw Finance
 
 #Clear Value Tax
-http://www.youtube.com/feeds/videos.xml?channel_id=UCigUBIf-zt_DA6xyOQtq2WA
+http://www.youtube.com/feeds/videos.xml?channel_id=UCigUBIf-zt_DA6xyOQtq2WA Finance
 
 #Analyzing finance with nick
-http://www.youtube.com/feeds/videos.xml?channel_id=UC7TEgC3UwJ2wI6m40rJOAFA
+http://www.youtube.com/feeds/videos.xml?channel_id=UC7TEgC3UwJ2wI6m40rJOAFA Finance
 
 #Biz Path
-http://www.youtube.com/feeds/videos.xml?channel_id=UC42jZJH63TIBsKswsKwrZmA
+http://www.youtube.com/feeds/videos.xml?channel_id=UC42jZJH63TIBsKswsKwrZmA Finance Favourite
 
 #T Pallets
-http://www.youtube.com/feeds/videos.xml?channel_id=UCGy4ukTIYpDHWy5ywmGSHJA
+http://www.youtube.com/feeds/videos.xml?channel_id=UCGy4ukTIYpDHWy5ywmGSHJA General
 
 #intellectual Dropouts
-http://www.youtube.com/feeds/videos.xml?channel_id=UCQhh5sASVQp9vTleM9q_AOw
+http://www.youtube.com/feeds/videos.xml?channel_id=UCQhh5sASVQp9vTleM9q_AOw General
 
 #MRH Legacy
-http://www.youtube.com/feeds/videos.xml?channel_id=UCt0WGbghfVT9Vju57gzDGlw
+http://www.youtube.com/feeds/videos.xml?channel_id=UCt0WGbghfVT9Vju57gzDGlw General
 
 #Lex fridman
-http://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA
+http://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA General
 
 #PowerfullJRE
-http://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ
+http://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ General Conspiracy
+
+#Coast to Cosat AM 
+http://www.youtube.com/feeds/videos.xml?channel_id=UCVmlEoDSeImXV5aPz8EvP0A Conspiracy
 
 #Not Related!
-https://notrelated.xyz/rss
+https://notrelated.xyz/rss "~Not Related!" General
+
+#Bluelabyrinths
+https://bluelabyrinths.com/feed/
+
+#Luke Smith Blog
+https://lukesmith.xyz/rss.xml "~Luke Smith Blog" blog
+
+#Spool Five
+https://spool-five.com/posts/index.xml blog
+
+#Cat-v
+http://harmful.cat-v.org/Blog/index.atom blog
+
+#0fps
+http://0fps.wordpress.com/feed/
+
+#syntopia
+http://blog.hvidtfeldts.net/index.php/feed/
+
+#nautilus
+http://nautil.us/feed Favourite
