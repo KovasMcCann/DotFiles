@@ -6,7 +6,7 @@
 
 `/Newsboat` contains the `urls` and `config` files for the for [Newsboat](https://newsboat.org/index.html)
 
-# Arch Linux Guide
+## Arch Linux Guide
 
 Use DWM as the window manager
 
