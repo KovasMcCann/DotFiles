@@ -21,4 +21,4 @@ Use DWM as the window manager
 
 Windows Style PS1
 
-``export PS1="C:\\\ \033[01;34m\]\w\[\033[00m\]> "``
+ - ``export PS1="C:\\\ \033[01;34m\]\w\[\033[00m\]> "``
