@@ -21,6 +21,35 @@ Use DWM as the window manager
 
 [Mental Outlaws Video](https://www.youtube.com/watch?v=b0_0fJkvhP8&pp=ygUZbWVudGFsIG91dGxhdyB3aW5kb3dzIHN4cA%3D%3D)
 
+```bash
+apt-get install build-essential
+apt-get install git
+apt-get install libglib2.0-dev
+
+git clone https://github.com/sass/sassc.git
+git clone https://github.com/sass/libsass.git
+cd sassc
+SASS_LIBSASS_PATH=../libsass make
+sudo SASS_LIBSASS_PATH=../libsass make install
+
+git clone https://github.com/ndwarshuis/CinnXP
+
+cd CinnXP
+
+./compile-theme
+
+sudo cp -r pkg/usr/share/icons/CinnXP/ /usr/share/icons/
+sudo cp -r pkg/usr/share/themes/CinnXP-Luna/ /usr/share/themes/
+
+git clone https://github.com/B00merang-Artwork/...
+
+git clone https://github.com/B00merang-Project/...
+
+sudo cp -r Windows-XP/Windows\ XP\ Luna/metacity-1/ /usr/share/themes/CinnXP-Luna
+
+sudo cp -r ~/winxp-icons /usr/share/icons
+```
+
 Windows Style PS1
 
  - ``export PS1="C:\\\ \033[01;34m\]\w\[\033[00m\]> "``
