@@ -21,7 +21,7 @@ Use DWM as the window manager
 
 [Mental Outlaws Video](https://www.youtube.com/watch?v=b0_0fJkvhP8&pp=ygUZbWVudGFsIG91dGxhdyB3aW5kb3dzIHN4cA%3D%3D)
 
-```bash
+```console
 apt-get install build-essential
 apt-get install git
 apt-get install libglib2.0-dev
