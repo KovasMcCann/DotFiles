@@ -17,7 +17,7 @@ Use DWM as the window manager
   - **Most keybindings are in keys.h**
   - This is done with `#include "keys.h"`
 
-## Linux Mint Win XP Guide
+## Linux Mint Win XP Rice
 
 [Mental Outlaws Video](https://www.youtube.com/watch?v=b0_0fJkvhP8&pp=ygUZbWVudGFsIG91dGxhdyB3aW5kb3dzIHN4cA%3D%3D)
 
