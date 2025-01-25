@@ -52,4 +52,10 @@ sudo cp -r ~/winxp-icons /usr/share/icons
 
 Windows Style PS1
 
- - ``export PS1="C:\\\ \033[01;34m\]\w\[\033[00m\]> "``
+```bash
+echo "Micorosoft Windows XP (Version 5.1.2600)"
+echo "(C) 1985-2001 Microsoft Corp."
+echo
+ 
+export PS1='C:\\\[\e[1;32m\]\w\[\e[0m\] > '
+```
