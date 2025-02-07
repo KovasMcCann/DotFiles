@@ -19,6 +19,8 @@ Use DWM as the window manager
 
 ## Linux Mint Win XP Rice
 
+Visit Blog for more information
+
 [Mental Outlaws Video](https://www.youtube.com/watch?v=b0_0fJkvhP8&pp=ygUZbWVudGFsIG91dGxhdyB3aW5kb3dzIHN4cA%3D%3D)
 
 ```console
