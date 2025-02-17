@@ -1,4 +1,4 @@
-## General Programs
+# General Programs
 
 [Vim](https://www.vim.org/) and [Zsh](https://www.zsh.org/) configs are located in `/RC's`
 
