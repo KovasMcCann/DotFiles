@@ -50,6 +50,7 @@ git clone https://github.com/B00merang-Project/...
 sudo cp -r Windows-XP/Windows\ XP\ Luna/metacity-1/ /usr/share/themes/CinnXP-Luna
 
 sudo cp -r ~/winxp-icons /usr/share/icons
+
 ```
 
 Windows Style PS1
