@@ -1,11 +1,15 @@
 ## Resouces
 
 [Dave's Visual Guide to dwm](https://ratfactor.com/dwm)
+
 [How I use dwm (ratfactor)](https://ratfactor.com/dwm2)
 
 [Software I Use (ratfactor)](https://ratfactor.com/slackware/software)
+
 [Gentoo Recommended applications](https://wiki.gentoo.org/wiki/Recommended_applications)
+
 [General recommendations (Arch linux)](https://wiki.archlinux.org/title/General_recommendations)
+
 [Suckless recommendations](https://suckless.org/rocks/)
 
 Firefox:
