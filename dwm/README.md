@@ -16,3 +16,15 @@ Firefox:
  - [user.js (arkenfox)](https://github.com/arkenfox/user.js)
  - [Firefox mitagation Guide](https://spyware.neocities.org/guides/firefox)
  - [Searx Search Engine](https://digdeeper.club/articles/search.xhtml#searx)
+ - Apparmor and Firejail
+
+General:
+ - powersaving: tlp and powertop
+
+LaTeX:
+ - Create a latex editor that works with vim and zathura
+ - live updates
+
+Filesyc:
+ - Rebuild the github obsidian sync
+ - create bookmark sync
