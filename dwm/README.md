@@ -17,6 +17,7 @@ Firefox:
  - [Firefox mitagation Guide](https://spyware.neocities.org/guides/firefox)
  - [Searx Search Engine](https://digdeeper.club/articles/search.xhtml#searx)
  - Apparmor and Firejail
+ - [xBrowserSync](https://www.xbrowsersync.org/)
 
 General:
  - powersaving: tlp and powertop
@@ -28,3 +29,4 @@ LaTeX:
 Filesyc:
  - Rebuild the github obsidian sync
  - create bookmark sync
+    - [xBrowserSync](https://www.xbrowsersync.org/)
