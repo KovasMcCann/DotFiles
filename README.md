@@ -62,3 +62,5 @@ echo
  
 export PS1='C:\\\[\e[1;32m\]\w\[\e[0m\] > '
 ```
+
+## Gentoo Build
